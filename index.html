@@ -10,9 +10,8 @@ description: "爆米花好美"
             {{ post.title }}
         </h2>
         <h3 class="post-meta">
-        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
+            Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
         </h3>
-        {% endif %}
         <div class="post-content-preview">
             {{ post.content | strip_html | truncate:100 }}
         </div>
