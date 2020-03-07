@@ -9,7 +9,7 @@ github_repo: "https://github.com/crystalcandle/blog.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "流浪停车场"
+sidebar-about-description: "水晶蜡烛的流浪停车场。"
 # sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
