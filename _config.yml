@@ -8,8 +8,8 @@ baseurl: "/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/crystalcandle/blog.git" # you code repository
 
 # Sidebar settings
-sidebar: false                           # whether or not using Sidebar.
-sidebar-about-description: ""
+sidebar: true                           # whether or not using Sidebar.
+# sidebar-about-description: ""
 # sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
