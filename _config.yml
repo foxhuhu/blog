@@ -1,22 +1,22 @@
 # Site settings
-title: 水晶蜡烛
-SEOTitle: 水晶蜡烛的博客 | crystalcandle's Blog
+title: Other Side
+SEOTitle: foxhuhu's Blog
 header-img: "img/404-bg.jpg"
-description: "爆米花好美"
-url: "http://crystalcandle.github.io"          # your host, for absolute URL
+description: "おまえが殺した 名もない鳥の亡骸は おまえを明日へ 連れて飛び続けるだろう"
+url: "http://foxhuhu.github.io"          # your host, for absolute URL
 baseurl: "/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/crystalcandle/blog.git" # you code repository
+github_repo: "https://github.com/foxhuhu/blog.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "水晶蜡烛的流浪停车场。"
+sidebar-about-description: "水狐狸的博客"
 # sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-twitter_username:   crystalcandle20
+# twitter_username:   crystalcandle20
 
 
 
