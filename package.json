@@ -1,14 +1,14 @@
 {
-    "name": "水晶蜡烛",
-    "title": "水晶蜡烛",
-    "author": "水晶蜡烛",
+    "name": "水狐狸",
+    "title": "水狐狸",
+    "author": "水狐狸",
     "version": "1.1.0",
-    "homepage": "http://crystalcandle.github.io/blog",
+    "homepage": "http://foxhuhu.github.io/blog",
     "repository": {
         "type": "git",
-        "url": "https://github.com/crystalcandle/blog"
+        "url": "https://github.com/foxhuhu/blog"
     },
-    "bugs": "https://github.com/crystalcandle/blog/issues",
+    "bugs": "https://github.com/foxhuhu/blog/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
